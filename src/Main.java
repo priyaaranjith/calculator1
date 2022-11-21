@@ -12,6 +12,10 @@ public class Main
         double div = i/j;
         return div;
     }
+    public static double mul(double i, double j){
+        double mul = i*j;
+        return mul;
+    }
     public static void main(String[] args)
         {
         System.out.println("calculate");
